@@ -1,4 +1,5 @@
-﻿using System;
+﻿//GitHub test
+using System;
 
 namespace ConsoleApp1
 {
